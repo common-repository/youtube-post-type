@@ -1,0 +1,8 @@
+== Change Log file ==
+Changes in v0.2:
+
+* Fixed bug to catch up with WordPress 3 development where a post type has new features for: title, editor, thumbnail, excerpt
+
+TubePress v0.1:
+
+* First release of YouTube Post Type
